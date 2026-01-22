@@ -20,7 +20,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AbhishekGupta0164&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGupta0164&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ✨ Tech Journey:<br>-
+# ✨ Tech Journey:<br>._.
 🚀 I Recently be a part of Asia’s Largest Tech-Fest at IIT Bombay!<br>-
 🏫 Explored campus, labs, research centers & innovation culture.<br>-
 💡 Gained strong motivation toward engineering excellence & innovation<br>
