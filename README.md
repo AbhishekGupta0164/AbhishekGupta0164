@@ -1,6 +1,13 @@
 # 💫 About Me:
-## Hi there 👋 I'm Abhishek!🎓 B.Tech CSE student at BGIEM, Jabalpur (2028)<br>- 🔧 Frontend Developer — HTML,CSS,JAVASCRIPT <br>- 🧩 Core Member, Tech Team @TechEra Community <br>- 🛠️ I build Fully Working Robots & Robotics Models , Web based minor & major projects, Real world Chatbots.<br>- ☁️ Currently exploring AGI, <br>- 📚 BUILDING AND LEARNING CONTINUOUSLY<br>
-🔭 I’m currently working on TechEra-Committe<br>🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>🌱 I’m currently learning JAVA, DSA, WebDev<br>
+## Hi there 👋 I'm Abhishek!🎓 B.Tech CSE student at BGIEM, Jabalpur (2028)<br>-
+🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
+🧩 Core Member, Tech Team @TechEra Community <br>-
+🛠️ I build real world Fully Working Robots & Robotics Models ,
+  Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
+☁️ Currently exploring AI & AGI, <br>-
+📚 BUILDING AND LEARNING CONTINUOUSLY<br>
+🔭 I’m currently working on TechEra-Committe<br>🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>
+🌱 I’m currently learning JAVA, DSA, WebDev,Python <br>
 
 
 ## 🌐 Socials:
