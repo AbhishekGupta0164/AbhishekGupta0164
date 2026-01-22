@@ -5,7 +5,8 @@
 🛠️ I build Fully Working Robots & Robotics Models, Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
 ☁️ Exploring AI, AGI & Real-World Chatbots.<br>-
 📚 BUILDING AND LEARNING CONTINUOUSLY.<br>-
-🔭 I’m currently working on TechEra-Committe<br>🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>-
+🔭 I’m currently working on TechEra-Committe<br>-
+🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>-
 🌱 I’m currently learning JAVA, DSA, WebDev,Python <br>
 
 
@@ -19,7 +20,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AbhishekGupta0164&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGupta0164&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ✨ Tech Journey:
+# ✨ Tech Journey:<br>-
 🚀 I Recently be a part of Asia’s Largest Tech-Fest at IIT Bombay!<br>-
 🏫 Explored campus, labs, research centers & innovation culture.<br>-
 💡 Gained strong motivation toward engineering excellence & innovation<br>
