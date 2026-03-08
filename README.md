@@ -9,11 +9,6 @@
 🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>-
 🌱 I’m currently learning JAVA, DSA, WebDev,Python <br>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekGupta0164&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGupta0164&layout=compact)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGupta0164&theme=github-dark)](https://github.com/AbhishekGupta0164)
 
 ## 🌐 Socials:
