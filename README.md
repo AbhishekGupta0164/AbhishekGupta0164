@@ -9,7 +9,13 @@
 🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>-
 🌱 I’m currently learning JAVA, DSA, WebDev,Python <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?AbhishekGupta0164=AbhishekGupta0164&theme=react-dark)](https://github.com/AbhishekGupta0164)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekGupta0164&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGupta0164&layout=compact)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGupta0164&theme=github-dark)](https://github.com/AbhishekGupta0164)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MBKTYtJD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishek._.016) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-gupta016) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6JghsVXYr) 
 
@@ -25,6 +31,5 @@
 🏫 Explored campus, labs, research centers & innovation culture.<br>-
 💡 Gained strong motivation toward engineering excellence & innovation<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?AbhishekGupta=AbhishekGupta0164&show_icons=true&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhishekGupta0164&icon=0&color=0)](https://visitcount.itsvg.in)
