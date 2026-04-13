@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"/></a>
   <!-- add other socials -->
 </p>
 🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
@@ -24,6 +23,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGupta0164&theme=github-dark)](https://github.com/AbhishekGupta0164)
 
 ## 🌐 Socials Connect:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekgupta0164@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MBKTYtJD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishek._.016) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-gupta016) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6JghsVXYr) 
 
 ## 💻 Tech Stack:
