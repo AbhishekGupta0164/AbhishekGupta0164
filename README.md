@@ -1,14 +1,14 @@
 # 💫 About Me:-
 ## Hi there 👋 I'm Abhishek!🎓 B.Tech CSE student at BGIEM, Jabalpur (2028)<br>-
 
-#### 🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
-#### 🧩 Core Member, Tech Team @TechEra Community. <br>-
-#### 🛠️ I build Fully Working Robots & Robotics Models, Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
-#### ☁️ Exploring AI, AGI & Real-World Chatbots.<br>-
-#### 📚 BUILDING AND LEARNING CONTINUOUSLY.<br>-
-#### 🔭 I’m currently working on TechEra-Committe<br>-
-#### 🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>-
-#### 🌱 I’m currently learning JAVA, DSA, WebDev,Python <br>
+🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
+🧩 Core Member, Tech Team @TechEra Community. <br>-
+🛠️ I build Fully Working Robots & Robotics Models, Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
+☁️ Exploring AI, AGI & Real-World Chatbots.<br>-
+📚 BUILDING AND LEARNING CONTINUOUSLY.<br>-
+🔭 I’m currently working on TechEra-Committe<br>-
+🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>-
+🌱 I’m currently learning JAVA, DSA, WebDev,Python <br>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGupta0164&theme=github-dark)](https://github.com/AbhishekGupta0164)
 
@@ -39,12 +39,6 @@ This project predicts student exam anxiety using a BERT-based NLP model.
 ### 3. Personal Portfolio 
 Personal Portfolio Website 
 I developed my personal portfolio website, to showcase my projects, technical skills, and continuous learning in web development.
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhishekGupta0164&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbhishekGupta0164&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGupta0164&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✨ Tech Journey: IIT BOMBAY TechFest25<br>
 🚀 I Recently be a part of Asia’s Largest Tech-Fest at IIT Bombay!<br>-
