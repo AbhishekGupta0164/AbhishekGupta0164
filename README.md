@@ -30,11 +30,7 @@
 
 | Category                  | Technologies                                       |
 |---------------------------|----------------------------------------------------|
-| **Languages**             |<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
-</p>                                                                             |
+| **Languages**             |<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/> </p>                                                                             |
 | **Frontend**              | HTML, CSS, JS, Node.js                             |   
 | **UI Frameworks**         | Bootstrap, Tailwind CSS                            |
 | **Tools**                 | AI, Git, Github, VSCode, Canva, DaVinciResolve     |
@@ -55,7 +51,7 @@ Personal Portfolio Website
 I developed my personal portfolio website, to showcase my projects, technical skills, and continuous learning in web development.
 
 
-### 🚀 Currently Building
+## 🚀 Currently Building
 - Multi-agent AI system for automated code review
 - Open-source contribution to OpenEnv Meta
 **Open to work** on AI Engineering, MLOps or Full-stack AI roles (India / Remote)
@@ -68,8 +64,8 @@ I developed my personal portfolio website, to showcase my projects, technical sk
 ._.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekGupta0164&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGupta0164&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGupta0164&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekGupta0164&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGupta0164&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGupta0164&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 ---
