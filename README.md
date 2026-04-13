@@ -27,15 +27,15 @@
 
 ## 🚀 Featured Projects
 
-### SafetyGuard-X
+###1. SafetyGuard-X
 An OpenEnv-compliant Reinforcement Learning environment built for the Meta AI Environmental Decision Intelligence Hackathon.  
 SafetyForge Arena v3.0 — OpenEnv RL Safety Gym for adversarial stress-testing LLMs. Features Basilisk Adaptive Red-Teamer, PPO training pipeline, one-click HF dataset export, and **Flagship Multi-Format Encoded Query System** (binary, hex, base64 + De-obfuscation Engine). Built for Meta, Hugging Face, and AI safety teams.
 
-### ServiceNow Employee Lifecycle Automation
+###2. ServiceNow Employee Lifecycle Automation
 AI Exam Anxiety Prediction Model.
 This project predicts student exam anxiety using a BERT-based NLP model.
 
-### Personal Portfolio 
+###3. Personal Portfolio 
 Personal Portfolio Website 
 I developed my personal portfolio website, to showcase my projects, technical skills, and continuous learning in web development.
 
