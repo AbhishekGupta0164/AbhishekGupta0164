@@ -29,7 +29,7 @@
 
 | Category                  | Technologies                                       |
 |---------------------------|----------------------------------------------------|
-| **Languages**             | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)[TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)[Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ...      |
+| **Languages**             | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ...      |
 | **Frontend**              | HTML, CSS, JS, Node.js                             |   
 | **UI Frameworks**         | Bootstrap, Tailwind CSS                            |
 | **Tools**                 | AI, Git, Github, VSCode, Canva, DaVinciResolve     |
@@ -49,17 +49,10 @@ This project predicts student exam anxiety using a BERT-based NLP model.
 Personal Portfolio Website 
 I developed my personal portfolio website, to showcase my projects, technical skills, and continuous learning in web development.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 
 ### 🚀 Currently Building
 - Multi-agent AI system for automated code review
 - Open-source contribution to OpenEnv Meta
-
 **Open to work** on AI Engineering, MLOps or Full-stack AI roles (India / Remote)
 
 
@@ -68,6 +61,13 @@ I developed my personal portfolio website, to showcase my projects, technical sk
 🏫 Explored campus, labs, research centers & innovation culture.<br>-
 💡 Gained strong motivation toward engineering excellence & innovation<br>
 ._.
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhishekGupta0164&icon=0&color=0)](https://visitcount.itsvg.in)
