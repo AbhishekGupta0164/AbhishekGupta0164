@@ -1,18 +1,18 @@
 # 💫 About Me:-
 ## Hi there 👋 I'm Abhishek!🎓 B.Tech CSE student at BGIEM, Jabalpur (2028)<br>-
 
-### 🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
-### 🧩 Core Member, Tech Team @TechEra Community. <br>-
-### 🛠️ I build Fully Working Robots & Robotics Models, Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
-### ☁️ Exploring AI, AGI & Real-World Chatbots.<br>-
-### 📚 BUILDING AND LEARNING CONTINUOUSLY.<br>-
-### 🔭 I’m currently working on TechEra-Committe<br>-
-### 🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>-
-### 🌱 I’m currently learning JAVA, DSA, WebDev,Python <br>
+#### 🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
+#### 🧩 Core Member, Tech Team @TechEra Community. <br>-
+#### 🛠️ I build Fully Working Robots & Robotics Models, Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
+#### ☁️ Exploring AI, AGI & Real-World Chatbots.<br>-
+#### 📚 BUILDING AND LEARNING CONTINUOUSLY.<br>-
+#### 🔭 I’m currently working on TechEra-Committe<br>-
+#### 🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>-
+#### 🌱 I’m currently learning JAVA, DSA, WebDev,Python <br>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGupta0164&theme=github-dark)](https://github.com/AbhishekGupta0164)
 
-## 🌐 Socials:
+## 🌐 Socials Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MBKTYtJD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishek._.016) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-gupta016) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6JghsVXYr) 
 
 ## 💻 Tech Stack:
