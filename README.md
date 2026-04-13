@@ -1,4 +1,16 @@
 # 💫 About Me:-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png" alt="Banner" width="100%"/>
+</p>
+
+<h1 align="center">Hi there 👋, I'm Abhishek Gupta</h1>
+<h3 align="center">AI Software Engineer | B.Tech CSE @ RGEM, Jabalpur (2025)</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"/></a>
+  <!-- add other socials -->
+</p>
 ## Hi there 👋 I'm Abhishek!🎓 B.Tech CSE student at BGIEM, Jabalpur (2028)<br>-
 
 🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
@@ -24,9 +36,33 @@
 | **UI Frameworks**         | Bootstrap, Tailwind CSS                            |
 | **Tools**                 | AI, Git, Github, VSCode, Canva, DaVinciResolve     |
 
+### 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ...
+
+**Frameworks & Tools**  
+![LangChain](https://img.shields.io/badge/LangChain-121212?logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ...
+
+**Databases & Cloud**  
+... 
 ---
 
 ## 🚀 Featured Projects
+### 🔥 Featured Projects
+
+**1. GenAI Employee Lifecycle Automation**  
+*Automated onboarding, performance reviews & exit processes using LLM agents*  
+![Demo GIF](https://raw.githubusercontent.com/.../demo.gif)  
+**Tech:** LangChain • Llama 3 • FastAPI • PostgreSQL  
+[→ Live Demo](...) | [→ Repository](...)
+
+**2. Conversational Grounding RL Model**  
+...
 
 ### 1. SafetyGuard-X
 An OpenEnv-compliant Reinforcement Learning environment built for the Meta AI Environmental Decision Intelligence Hackathon.  
@@ -39,6 +75,22 @@ This project predicts student exam anxiety using a BERT-based NLP model.
 ### 3. Personal Portfolio 
 Personal Portfolio Website 
 I developed my personal portfolio website, to showcase my projects, technical skills, and continuous learning in web development.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+### 🏆 Achievements
+![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=15)
+
+### 🚀 Currently Building
+- Multi-agent AI system for automated code review
+- Open-source contribution to LangGraph ecosystem
+
+**Open to work** on AI Engineering, MLOps or Full-stack AI roles (India / Remote)
+
 
 ## ✨ Tech Journey: IIT BOMBAY TechFest25<br>
 🚀 I Recently be a part of Asia’s Largest Tech-Fest at IIT Bombay!<br>-
