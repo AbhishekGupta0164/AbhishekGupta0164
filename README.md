@@ -10,14 +10,34 @@
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <!-- add other socials -->
 </p>
-🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
-🧩 Core Member, Tech Team @TechEra Community. <br>-
-🛠️ I build Fully Working Robots & Robotics Models, Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
-☁️ Exploring AI, AGI & Real-World Chatbots.<br>-
-📚 BUILDING AND LEARNING CONTINUOUSLY.<br>-
-🔭 I’m currently working on TechEra-Committe<br>-
-🤝 I’m looking for help with Coading Concepts, Resources,Projects<br>-
-🌱 I’m currently learning JAVA, DSA, WebDev,Python <br>
+## 🚀 AI Software Engineer | B.Tech CSE @ BGIEM, Jabalpur (2028)
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💼 Professional Summary
+
+- 💻 **Frontend Developer** skilled in HTML, CSS, JavaScript  
+- 🚀 **Core Member @ TechEra Community** – contributing to tech initiatives & team projects  
+- 🤖 Building **Real-World AI Applications**, including chatbots & automation systems  
+- 🛠️ Developing **robotics models & intelligent systems**  
+- 🌐 Creating **web-based applications & interactive projects**  
+- 🧠 Actively exploring **AI, AGI, and Large Language Models (LLMs)**  
+- 📈 Committed to **continuous learning & real-world problem solving**  
+
+---
+
+### 🔍 Currently Focused On
+
+- ⚙️ Strengthening **Data Structures & Algorithms (DSA)**  
+- ☕ Advancing in **Java & Python development**  
+- 🌍 Building **Full-Stack + AI integrated applications**  
+- 🤝 Open to collaboration on **AI projects, Hackathons, coding challenges & tech communities**
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGupta0164&theme=github-dark)](https://github.com/AbhishekGupta0164)
