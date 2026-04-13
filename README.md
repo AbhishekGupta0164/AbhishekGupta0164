@@ -4,15 +4,13 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Abhishek Gupta</h1>
-<h3 align="center">AI Software Engineer | B.Tech CSE @ RGEM, Jabalpur (2025)</h3>
+<h3 align="center">AI Software Engineer | B.Tech CS @ BGIEM, Jabalpur (2028)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"/></a>
   <!-- add other socials -->
 </p>
-## Hi there 👋 I'm Abhishek!🎓 B.Tech CSE student at BGIEM, Jabalpur (2028)<br>-
-
 🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
 🧩 Core Member, Tech Team @TechEra Community. <br>-
 🛠️ I build Fully Working Robots & Robotics Models, Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
@@ -31,38 +29,13 @@
 
 | Category                  | Technologies                                       |
 |---------------------------|----------------------------------------------------|
-| **Languages**             | C++, Java, Python                                  |
+| **Languages**             | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)[TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)[Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ...      |
 | **Frontend**              | HTML, CSS, JS, Node.js                             |   
 | **UI Frameworks**         | Bootstrap, Tailwind CSS                            |
 | **Tools**                 | AI, Git, Github, VSCode, Canva, DaVinciResolve     |
 
-### 🛠️ Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ...
-
-**Frameworks & Tools**  
-![LangChain](https://img.shields.io/badge/LangChain-121212?logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ...
-
-**Databases & Cloud**  
-... 
----
-
-## 🚀 Featured Projects
-### 🔥 Featured Projects
-
-**1. GenAI Employee Lifecycle Automation**  
-*Automated onboarding, performance reviews & exit processes using LLM agents*  
-![Demo GIF](https://raw.githubusercontent.com/.../demo.gif)  
-**Tech:** LangChain • Llama 3 • FastAPI • PostgreSQL  
-[→ Live Demo](...) | [→ Repository](...)
-
-**2. Conversational Grounding RL Model**  
-...
+## 🚀 Featured Projects:
 
 ### 1. SafetyGuard-X
 An OpenEnv-compliant Reinforcement Learning environment built for the Meta AI Environmental Decision Intelligence Hackathon.  
@@ -82,12 +55,10 @@ I developed my personal portfolio website, to showcase my projects, technical sk
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-### 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=15)
 
 ### 🚀 Currently Building
 - Multi-agent AI system for automated code review
-- Open-source contribution to LangGraph ecosystem
+- Open-source contribution to OpenEnv Meta
 
 **Open to work** on AI Engineering, MLOps or Full-stack AI roles (India / Remote)
 
