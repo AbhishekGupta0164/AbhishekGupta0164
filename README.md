@@ -1,8 +1,9 @@
 # 💫 About Me:-
 ## Hi there 👋 I'm Abhishek!🎓 B.Tech CSE student at BGIEM, Jabalpur (2028)<br>-
-🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
-🧩 Core Member, Tech Team @TechEra Community. <br>-
-🛠️ I build Fully Working Robots & Robotics Models, Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
+
+## 🔧 Frontend Developer — HTML, CSS, JavaScript <br>- 
+### 🧩 Core Member, Tech Team @TechEra Community. <br>-
+# 🛠️ I build Fully Working Robots & Robotics Models, Web based mini projects,Webpages,Working on Real world Chatbots.<br>- 
 ☁️ Exploring AI, AGI & Real-World Chatbots.<br>-
 📚 BUILDING AND LEARNING CONTINUOUSLY.<br>-
 🔭 I’m currently working on TechEra-Committe<br>-
@@ -45,10 +46,11 @@ I developed my personal portfolio website, to showcase my projects, technical sk
 ![](https://nirzak-streak-stats.vercel.app/?user=AbhishekGupta0164&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGupta0164&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ✨ Tech Journey: IIT BOMBAY TechFest25<br>._.
+## ✨ Tech Journey: IIT BOMBAY TechFest25<br>
 🚀 I Recently be a part of Asia’s Largest Tech-Fest at IIT Bombay!<br>-
 🏫 Explored campus, labs, research centers & innovation culture.<br>-
 💡 Gained strong motivation toward engineering excellence & innovation<br>
+._.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhishekGupta0164&icon=0&color=0)](https://visitcount.itsvg.in)
