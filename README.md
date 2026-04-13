@@ -30,7 +30,11 @@
 
 | Category                  | Technologies                                       |
 |---------------------------|----------------------------------------------------|
-| **Languages**             | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)![C++](https://img.shields.io/badge/TypeScript-3178C6?logo=C++&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ...      |
+| **Languages**             |<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
+</p>                                                                             |
 | **Frontend**              | HTML, CSS, JS, Node.js                             |   
 | **UI Frameworks**         | Bootstrap, Tailwind CSS                            |
 | **Tools**                 | AI, Git, Github, VSCode, Canva, DaVinciResolve     |
