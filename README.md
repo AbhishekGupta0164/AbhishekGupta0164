@@ -10,14 +10,6 @@
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <!-- add other socials -->
 </p>
-## 🚀 AI Software Engineer | B.Tech CSE @ BGIEM, Jabalpur (2028)
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ### 💼 Professional Summary
