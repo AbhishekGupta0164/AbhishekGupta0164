@@ -46,7 +46,7 @@
 - 🔍 Currently Focused On :-
   - ⚙️ Strengthening **Data Structures & Algorithms (DSA)**  
   - ☕ Advancing in **Java & AI development**   
-   -🤝 Open to collaboration on **AI projects, Hackathons, coding challenges & tech communities**
+  - 🤝 Open to collaboration on **AI projects, Hackathons, coding challenges & tech communities**
 
 
 ---
