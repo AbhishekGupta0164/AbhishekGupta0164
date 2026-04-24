@@ -11,7 +11,9 @@
   <!-- add other socials -->
 </p>
 ---
-
+ 
+---
+ 
 ## 🌐 Socials Connect
  
 <div align="center">
@@ -34,20 +36,58 @@
 - 🛠️ Developing **robotics models & intelligent systems**  
 - 🌐 Creating **web-based applications & interactive projects**  
 - 🧠 Actively exploring **AI, AGI, and Large Language Models (LLMs)**  
-- 📈 Committed to **continuous learning & real-world problem solving**  
+- 📈 Committed to **continuous learning & real-world problem solving**
+- 🔍 Currently Focused On :-
+   ⚙️ Strengthening **Data Structures & Algorithms (DSA)**  
+   ☕ Advancing in **Java & AI development**  
+   🌍 Building **Full-Stack + AI integrated applications**  
+   🤝 Open to collaboration on **AI projects, Hackathons, coding challenges & tech communities**
 
 ---
-
-### 🔍 Currently Focused On
-
-- ⚙️ Strengthening **Data Structures & Algorithms (DSA)**  
-- ☕ Advancing in **Java & Python development**  
-- 🌍 Building **Full-Stack + AI integrated applications**  
-- 🤝 Open to collaboration on **AI projects, Hackathons, coding challenges & tech communities**
-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGupta0164&theme=github-dark)](https://github.com/AbhishekGupta0164)
-
+ 
+## 🛠️ Tech Stack & Skills
+ 
+### 👨‍💻 Programming Languages
+ 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" />
+</div>
+<br/>
+### 🌐 Frontend & UI
+ 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs&theme=dark" />
+</div>
+<br/>
+### 🤖 AI / ML & Data Science
+ 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter&theme=dark" />
+</div>
+<div align="center">
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?logo=huggingface&logoColor=black)](https://huggingface.co)
+[![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?logo=openai&logoColor=white)](https://openai.com)
+[![BERT](https://img.shields.io/badge/BERT%20%2F%20NLP-%234285F4.svg?logo=google&logoColor=white)](#)
+[![Reinforcement Learning](https://img.shields.io/badge/RL%20%2F%20PPO-%23EE4C2C.svg?logo=pytorch&logoColor=white)](#)
+ 
+</div>
+<br/>
+### 🗄️ Databases & Deployment
+ 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,netlify&theme=dark" />
+</div>
+<br/>
+### 🧰 Tools & Platforms
+ 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,canva&theme=dark" />
+</div>
+<div align="center">
+[![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-%23233A51.svg?logo=davinci-resolve&logoColor=white)](#)
+ 
+</div>
+---
 
 ## 🚀 Featured Projects
 
@@ -84,32 +124,18 @@
 
 | 🏅 Achievement | 📋 Details |
 |:---:|:---|
-| 🎓 **IIT Bombay TechFest 2025** | Participated in Asia's Largest Tech Fest — explored labs, research centers & innovation culture |
-| 🤝 **TechEra Community** | Core Member driving tech initiatives, team projects & community growth |
+| 🎓 **IIT Bombay TechFest 2025** | Participated in Asia's Largest Tech Fest —  Explored campus, labs, research centers & innovation culture 💡 Gained strong motivation toward engineering excellence & innovation |
 | 🥇 **Meta AI Hackathon** | Built SafetyForge Arena — an OpenEnv-compliant RL safety gym for LLM stress-testing |
 | 🥈 **Google Solution Challenge 2026** | Developed AI Fairness Training Gym with Gemini AI + PPO reinforcement learning |
 | ⚡ **GitHub Quickdraw** | Earned GitHub Quickdraw achievement for rapid issue/PR response |
+| 🤝 **TechEra Community** | Core Member driving tech initiatives, team projects & community growth |
 
 </div>
 
 ---
 
-## 💻 Tech Stack:
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGupta0164&theme=github-dark)](https://github.com/AbhishekGupta0164)
 
-| Category                  | Technologies                                       |
-|---------------------------|----------------------------------------------------|
-| **Languages**             |<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/> </p>                                                                             |
-| **Frontend**              | HTML, CSS, JS, Node.js                             |   
-| **UI Frameworks**         | Bootstrap, Tailwind CSS                            |
-| **Tools**                 | AI, Git, Github, VSCode, Canva, DaVinciResolve     |
-
-
-
-## ✨ Tech Journey: IIT BOMBAY TechFest25<br>
-🚀 I Recently be a part of Asia’s Largest Tech-Fest at IIT Bombay!<br>-
-🏫 Explored campus, labs, research centers & innovation culture.<br>-
-💡 Gained strong motivation toward engineering excellence & innovation<br>
-._.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhishekGupta0164&show_icons=true&theme=radical&hide_border=true" height="170"/>
