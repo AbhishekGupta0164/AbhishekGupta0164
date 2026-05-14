@@ -115,6 +115,7 @@
 ---
 ## 🚀 Featured Projects
 <div align="center">
+
 | 🏆 Project | 💡 Description | 🔧 Tech | 🌐 Live Demo |
 |:---:|:---|:---:|:---:|
 | [**SafetyGuard-X v3.0**](https://github.com/AbhishekGupta0164/Meta-AI-OpenEnv-SST-Project) | OpenEnv-compliant RL Safety Gym for adversarial stress-testing LLMs. Built for **Meta PyTorch OpenEnv AI Hackathon** with Basilisk Adaptive Red-Teamer, PPO pipeline & multi-format encoded query system | `Python` `RL` `LLM` `PPO` | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)](https://huggingface.co/spaces/abhishek0164/safetyguard-x) |
@@ -122,7 +123,8 @@
 | [**ForgeFlow Fleet-Multi-Agentic AI**](https://github.com/AbhishekGupta0164/ForgeFlow-Multi-Agentic-AI-System) | Multi-agent AI system that converts error logs, screenshots, or vague ideas into **production-ready Vercel AI agent blueprints in under 60 seconds**. Built for International Vercel(v0) Hackathon | `AI Agents` `Vercel AI` `LLM` `Automation` | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)](https://forgeflow-multi-agentic-ai-system.vercel.app/) |
 | [**AI Exam Anxiety Predictor**](https://github.com/AbhishekGupta0164/AI-Exam-Anxity-Prediction-Model) | Predicts student exam anxiety using a **BERT-based NLP model** trained on behavioral datasets | `Python` `BERT` `NLP` `Jupyter` | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)](https://huggingface.co/spaces/abhishek0164/exam-anxiety-predictor) |
 | [**Photography Portfolio**](https://github.com/AbhishekGupta0164/Portfolio) | Personal portfolio website showcasing projects, skills & photography work. **Built for IITB TechFest 2025 Photography Contest** Deployed on Netlify ⭐1 | `HTML` `CSS` `JS` | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)](https://photographyportfolio-abhishek.netlify.app) |
-| [**GlobeVote - AI-Powered Civic Intelligence Platform**](https://github.com/AbhishekGupta0164/GlobeVote-AI-Powered-Civic-Intelligence-Platform) | AI platform for civic intelligence, empowering informed voting, policy analysis, and democratic participation through real-time insights and data-driven decision making | `Python` `LLM` `AI Agents` `Web` | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)](https://huggingface.co/spaces/abhishek0164/globevote) |
+| [**GlobeVote - AI-Powered Civic Intelligence Platform**](https://github.com/AbhishekGupta0164/GlobeVote-AI-Powered-Civic-Intelligence-Platform) | AI-Powered platform for civic intelligence, real-time policy analysis, and informed democratic decision making | `Python` `LLM` `AI Agents` `Web` | [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)](https://huggingface.co/spaces/abhishek0164/globevote) |
+
 </div>
 ---
 
