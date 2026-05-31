@@ -175,10 +175,11 @@ I build **scalable AI systems, full-stack applications, and quantitative researc
   <tr><td align="center"><b>Icon</b></td><td><b>Project</b></td></tr>
   <tr><td align="center">🤖</td><td><b>Multi-Agent AI System</b> → Automated code review pipeline using LLMs</td></tr>
   <tr><td align="center">📈</td><td><b>Quant Alpha Research</b> → Building market-neutral signals for WorldQuant BRAIN</td></tr>
-  <tr><td align="center">🌍</td><td><b>Open Source</b> → Contributing to OpenEnv Meta ecosystem</td></tr>
+  <tr><td align="center">🌍</td><td><b>Open Source</b> → Contributing to OpenSource</td></tr>
   <tr><td align="center">🏗️</td><td><b>Full-Stack AI App</b> → Integrating AI APIs with real-time web interfaces</td></tr>
-  <tr><td align="center">⚡</td><td><b>DSA Mastery</b> → Solving advanced graph, DP & competitive programming problems</td></tr>
+  <tr><td align="center">⚡</td><td><b>DSA Mastery</b> → Solving DSA, DP & competitive programming problems</td></tr>
 </table>
+
 
 
 
