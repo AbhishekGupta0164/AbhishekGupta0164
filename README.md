@@ -21,17 +21,6 @@
   </a>
 </p>
 
-## 🌐 Socials Connect
-
-<div align="center">
-  <a href="mailto:abhishekgupta0164@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <a href="https://discord.gg/MBKTYtJD"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
-  <a href="https://www.instagram.com/abhishek._.016"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/abhishek-gupta016"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://pin.it/6JghsVXYr"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"/></a>&nbsp;
-  <a href="https://abhishek016-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
-  <a href="https://github.com/AbhishekGupta0164"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
 
 ---
 
@@ -52,20 +41,31 @@ I build **scalable AI systems, full-stack applications, and quantitative researc
   - 🤝 Open to collaboration on **AI projects, Quant research, Hackathons & tech communities**
 
 ---
-
-## 🏆 Global Rankings & Recognition
+## 🌐 Socials Connect
 
 <div align="center">
-
-| 🌍 Competition | 🎯 Achievement | 📊 Scale |
-|:---:|:---:|:---:|
-| 📈 **WorldQuant International Quant Championship (IQC)** | **Bronze Tier • Top 20% Globally** | National-Level Qualified |
-| 🚀 **Meta PyTorch OpenEnv Hackathon** | **Participant** | Top teams from 52,000+ developers globally |
-| 🥈 **Google Solution Challenge 2026** | **Active Participant** | Global Student Innovation Challenge |
-| 🎓 **IIT Bombay TechFest 2025** | **Participant** | Asia's Largest Tech Fest |
-| ⚡ **GitHub Quickdraw** | **Achievement Earned** | Rapid issue/PR response |
-
+  <a href="mailto:abhishekgupta0164@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://discord.gg/MBKTYtJD"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
+  <a href="https://www.instagram.com/abhishek._.016"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abhishek-gupta016"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://pin.it/6JghsVXYr"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"/></a>&nbsp;
+  <a href="https://abhishek016-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://github.com/AbhishekGupta0164"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
+---
+
+## ✨ Highlights & Achievements
+
+| Icon | Competition/Achievement | Highlight | Tags |
+|:---:|---|---|---|
+| 🏆 | **Meta PyTorch OpenEnv** | SafetyForge Arena — OpenEnv-compliant RL safety gym for adversarial LLM stress-testing | Hackathon Participant among 52,000+ devs |
+| 📈 | **WorldQuant IQC** | Bronze Tier • Top 20% Globally — Alpha factors development & quantitative strategy | National Qualified • Global Ranking |
+| 🥇 | **Google Solution Challenge 2026** | AI Fairness Training Gym with Gemini AI + PPO RL — Tackling UN SDG 10 & 16 | Global Initiative • Active Participant |
+| ⚡ | **GitHub Quickdraw** | Rapid Response Badge — Fast issue/PR response in open-source contributions | Community Impact |
+| 💻 | **DSA Mastery** | 100+ Problems Solved — Competitive programming expertise in DSA & DP algorithms | Core Foundation |
+| 👥 | **TechEra X-Core Member** | Tech Leadership — Driving initiatives, team projects & community growth | Leadership |
+
+**Notable Experience:** IIT Bombay TechFest 2025 — Participated in Asia's largest tech fest exploring labs, research centers & innovation culture.
 
 ---
 
@@ -185,23 +185,6 @@ I build **scalable AI systems, full-stack applications, and quantitative researc
 
 🟢 **Open to work** — AI Engineering · Quant Research · MLOps · Full-Stack AI roles (India / Remote)
 
----
-
-## ✨ Highlights & Achievements
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Details |
-|:---:|:---|
-| 🥇 **Meta PyTorch OpenEnv Hackathon — Participant** | Built SafetyForge Arena — an OpenEnv-compliant RL safety gym for adversarial LLM stress-testing |
-| 📈 **WorldQuant IQC — Bronze (Top 20% Global)** | National-Level Qualified. Created alpha factors |
-| 🥈 **Google Solution Challenge 2026** | Developed AI Fairness Training Gym with Gemini AI + PPO reinforcement learning. Tackling **UN SDG 10 & SDG 16** |
-| 🎓 **IIT Bombay TechFest 2025** | Participated in Asia's Largest Tech Fest — explored campus, labs, research centers & innovation culture 💡 |
-| ⚡ **100+ DSA Problems Solved** | Across competitive programming platforms — strengthening core algorithmic foundation |
-| 🚀 **GitHub Quickdraw** | Earned for rapid issue/PR response in open-source contributions |
-| 🤝 **TechEra Community X-Core Member** | Driving tech initiatives, team projects & community growth |
-
-</div>
 
 ---
 
