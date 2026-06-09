@@ -6,6 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhishek%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Quant%20Researcher%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Competitive%20Programmer&descSize=15&descAlignY=58&descColor=c9b8ff" width="100%" alt="banner"/>
 </p>
 
+
 <!-- ═══════════════════════ HEADING ═══════════════════════ -->
 <h1 align="center">Hi there 👋, I'm Abhishek Gupta</h1>
 
